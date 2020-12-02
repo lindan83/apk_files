@@ -1,0 +1,9 @@
+{
+  "code":"0",
+  "msg": null,
+  "data": {
+      "version":"1.1.0,
+      "isForce":true,
+      "memo":"修复已知BUG"
+  }
+}
