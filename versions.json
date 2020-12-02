@@ -2,7 +2,7 @@
   "code":"0",
   "msg": null,
   "data": {
-      "version":"1.1.0,
+      "version":"1.1.0",
       "isForce":true,
       "memo":"修复已知BUG",
       "md5":"1ebde7f57529f20616d7ad924556c81c",
