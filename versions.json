@@ -5,7 +5,7 @@
   	"flavors":[
   		{
   			"flavor":"generic",
-			"version":"1.1.1",
+			"version":"1.1.0",
       			"isForce":true,
       			"memo":"修复已知BUG",
       			"md5":"a01f96202645c01d17baed80280a7acb",
@@ -13,7 +13,7 @@
   		},
   		{
   			"flavor":"tarda",
-			"version":"1.1.1",
+			"version":"1.1.0",
       			"isForce":true,
       			"memo":"修复已知BUG",
       			"md5":"6d7c890b172f2d22c12313cbbc374bdc",
@@ -21,7 +21,7 @@
   		},
   		{
   			"flavor":"finmat",
-			"version":"1.1.1",
+			"version":"1.1.0",
       			"isForce":true,
       			"memo":"修复已知BUG",
       			"md5":"d6b86c4ad488c9d77ede581f95d93c5f",
@@ -29,7 +29,7 @@
   		},
   		{
   			"flavor":"kibera",
-			"version":"1.1.1",
+			"version":"1.1.0",
       			"isForce":true,
       			"memo":"修复已知BUG",
       			"md5":"66b18726f16080f3a231757c220c3054",
@@ -37,7 +37,7 @@
   		},
   		{
   			"flavor":"bodaboda",
-			"version":"1.1.1",
+			"version":"1.1.0",
       			"isForce":true,
       			"memo":"修复已知BUG",
       			"md5":"3ccbbb44330f0b22b0a7ca84244e1618",
