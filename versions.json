@@ -5,35 +5,43 @@
   	"flavors":[
   		{
   			"flavor":"generic",
-			"version":"1.1.0",
+			"version":"1.1.1",
       			"isForce":true,
       			"memo":"修复已知BUG",
-      			"md5":"1ebde7f57529f20616d7ad924556c81c",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.0-generic.apk"
+      			"md5":"a01f96202645c01d17baed80280a7acb",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.1-generic.apk"
   		},
   		{
   			"flavor":"tarda",
-			"version":"1.1.0",
+			"version":"1.1.1",
       			"isForce":true,
       			"memo":"修复已知BUG",
-      			"md5":"1ebde7f57529f20616d7ad924556c81c",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.0-tarda.apk"
+      			"md5":"6d7c890b172f2d22c12313cbbc374bdc",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.1-tarda.apk"
   		},
   		{
   			"flavor":"finmat",
-			"version":"1.1.0",
+			"version":"1.1.1",
       			"isForce":true,
       			"memo":"修复已知BUG",
-      			"md5":"1ebde7f57529f20616d7ad924556c81c",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.0-finmat.apk"
+      			"md5":"d6b86c4ad488c9d77ede581f95d93c5f",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.1-finmat.apk"
   		},
   		{
   			"flavor":"kibera",
-			"version":"1.1.0",
+			"version":"1.1.1",
       			"isForce":true,
       			"memo":"修复已知BUG",
-      			"md5":"1ebde7f57529f20616d7ad924556c81c",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.0-kibera.apk"
+      			"md5":"66b18726f16080f3a231757c220c3054",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.1-kibera.apk"
+  		},
+  		{
+  			"flavor":"bodaboda",
+			"version":"1.1.1",
+      			"isForce":true,
+      			"memo":"修复已知BUG",
+      			"md5":"3ccbbb44330f0b22b0a7ca84244e1618",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.1-bodaboda.apk"
   		}
   		
   	]
