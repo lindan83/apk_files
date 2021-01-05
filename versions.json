@@ -42,6 +42,14 @@
       			"memo":"修复已知BUG",
       			"md5":"427f2b6fd90eb71fb8a7816dfb6f6bf0",
       			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.4-bodaboda.apk"
+  		},
+  		{
+  			"flavor":"nacod",
+			"version":"1.1.4",
+      			"isForce":true,
+      			"memo":"修复已知BUG",
+      			"md5":"7f59d9383eee5d4ad054c60a4da7a7eb",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.4-nacod.apk"
   		}
   		
   	]
