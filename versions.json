@@ -58,6 +58,22 @@
       			"memo":"新增相关类别账户及相关交易记录",
       			"md5":"a1b3d602435ca6367217fcfd244d931c",
       			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-shamiri.apk"
+  		},
+  		{
+  			"flavor":"ackkangemiukrist",
+			"version":"1.1.5",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"29fe3d75458759adef1b289d4cf0ba63",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-ackkangemiukrist.apk"
+  		},
+  		{
+  			"flavor":"samsyo",
+			"version":"1.1.5",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"c40bac1a513e6c961766ca44e38c4879",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-samsyo.apk"
   		}
   		
   	]
