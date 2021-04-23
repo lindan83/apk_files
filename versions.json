@@ -74,6 +74,14 @@
       			"memo":"",
       			"md5":"c40bac1a513e6c961766ca44e38c4879",
       			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-samsyo.apk"
+  		},
+  		{
+  			"flavor":"ktw",
+			"version":"1.1.5",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"f671de5cf9257e369a747cb72d7fa560",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-ktw.apk"
   		}
   		
   	]
