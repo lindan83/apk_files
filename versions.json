@@ -5,107 +5,107 @@
   	"flavors":[
   		{
   			"flavor":"generic",
-			"version":"1.1.5",
+			"version":"1.1.6",
       			"isForce":true,
-      			"memo":"新增相关类别账户及相关交易记录",
-      			"md5":"a5438b34f9c0671f0e7fa03c4f1d9510",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-generic.apk"
+      			"memo":"新增Saving Account详细记录列表",
+      			"md5":"c2464adcf71a64e8387b16c96b407ee0",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-generic.apk"
   		},
   		{
   			"flavor":"tarda",
-			"version":"1.1.5",
+			"version":"1.1.6",
       			"isForce":true,
-      			"memo":"新增相关类别账户及相关交易记录",
-      			"md5":"401a131314d1724c8362e0dc1aed445b",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-tarda.apk"
+      			"memo":"新增Saving Account详细记录列表",
+      			"md5":"f833f6a6440f4b34f87c9d21a07351d4",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-tarda.apk"
   		},
   		{
   			"flavor":"finmat",
-			"version":"1.1.5",
+			"version":"1.1.6",
       			"isForce":true,
-      			"memo":"新增相关类别账户及相关交易记录",
-      			"md5":"cdbf3cb3f186e80a4ae6b07b1618f221",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-finmat.apk"
+      			"memo":"新增Saving Account详细记录列表",
+      			"md5":"b27dd32fc232d1720d182abc706fc2fc",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-finmat.apk"
   		},
   		{
   			"flavor":"kibera",
-			"version":"1.1.5",
+			"version":"1.1.6",
       			"isForce":true,
-      			"memo":"新增相关类别账户及相关交易记录",
-      			"md5":"64f4c722a6b4b6bf9ff082bd7822e7f5",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-kibera.apk"
+      			"memo":"新增Saving Account详细记录列表",
+      			"md5":"6e3031e6a49ad47d0ebdfb278f7a62ce",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-kibera.apk"
   		},
   		{
   			"flavor":"bodaboda",
-			"version":"1.1.5",
+			"version":"1.1.6",
       			"isForce":true,
-      			"memo":"新增相关类别账户及相关交易记录",
-      			"md5":"db4bbd4461651733bf68eb6b808aba89",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-bodaboda.apk"
+      			"memo":"新增Saving Account详细记录列表",
+      			"md5":"7ae5ff7506db798626cd59e4b10d55eb",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-bodaboda.apk"
   		},
   		{
   			"flavor":"nacod",
-			"version":"1.1.5",
+			"version":"1.1.6",
       			"isForce":true,
-      			"memo":"新增相关类别账户及相关交易记录",
-      			"md5":"44aa1bde2629f9fe2324ac74505133ee",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-nacod.apk"
+      			"memo":"新增Saving Account详细记录列表",
+      			"md5":"e4701a493eb7d3e5123249a4d1fd0e22",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-nacod.apk"
   		},
   		{
   			"flavor":"shamiri",
-			"version":"1.1.5",
+			"version":"1.1.6",
       			"isForce":true,
-      			"memo":"新增相关类别账户及相关交易记录",
-      			"md5":"a1b3d602435ca6367217fcfd244d931c",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-shamiri.apk"
+      			"memo":"新增Saving Account详细记录列表",
+      			"md5":"690df61fd9f204fbff6e0c354293c3b1",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-shamiri.apk"
   		},
   		{
   			"flavor":"ackkangemiukrist",
-			"version":"1.1.5",
+			"version":"1.1.6",
       			"isForce":true,
       			"memo":"",
-      			"md5":"29fe3d75458759adef1b289d4cf0ba63",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-ackkangemiukrist.apk"
+      			"md5":"67d94e578081f725998d25308ce119f1",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-ackkangemiukrist.apk"
   		},
   		{
   			"flavor":"samsyo",
-			"version":"1.1.5",
+			"version":"1.1.6",
       			"isForce":true,
       			"memo":"",
-      			"md5":"c40bac1a513e6c961766ca44e38c4879",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-samsyo.apk"
+      			"md5":"2e5bf7e870c8e99ad8b3c673701aed40",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-samsyo.apk"
   		},
   		{
   			"flavor":"ktw",
-			"version":"1.1.5",
+			"version":"1.1.6",
       			"isForce":true,
       			"memo":"",
-      			"md5":"f671de5cf9257e369a747cb72d7fa560",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-ktw.apk"
+      			"md5":"0fa4ed06bad8cb80b10f45651e6134f0",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-ktw.apk"
   		},
   		{
   			"flavor":"wellspring",
-			"version":"1.1.5",
+			"version":"1.1.6",
       			"isForce":true,
       			"memo":"",
-      			"md5":"3bb1f84d57935a05924063403f0c84c0",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-wellspring.apk"
+      			"md5":"b5a717ab6164521c6f3f42958fcf58ef",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-wellspring.apk"
   		},
   		{
   			"flavor":"iron",
-			"version":"1.1.5",
+			"version":"1.1.6",
       			"isForce":true,
       			"memo":"",
-      			"md5":"2e0935963395c9467cd42704f3d808c4",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-iron.apk"
+      			"md5":"a39fdef0fc886a453089a6f9fa759789",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-iron.apk"
   		},
   		{
   			"flavor":"liscco",
-			"version":"1.1.5",
+			"version":"1.1.6",
       			"isForce":true,
       			"memo":"",
-      			"md5":"6a0554709a30493afe10f0fefeb7dc3c",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.5-liscco.apk"
+      			"md5":"d5514c4a40260f4eafe70173c180d499",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-liscco.apk"
   		}
   	]
   }
