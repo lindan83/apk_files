@@ -106,6 +106,14 @@
       			"memo":"",
       			"md5":"d5514c4a40260f4eafe70173c180d499",
       			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-liscco.apk"
+  		},
+  		{
+  			"flavor":"nesadi",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"ee87442fe1a3a6fa11513de8c001d738",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-nesadi.apk"
   		}
   	]
   }
