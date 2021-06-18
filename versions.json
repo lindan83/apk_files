@@ -114,6 +114,14 @@
       			"memo":"",
       			"md5":"ee87442fe1a3a6fa11513de8c001d738",
       			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-nesadi.apk"
+  		},
+  		{
+  			"flavor":"stmarys",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"68a939aef42c127d56c24fcdd2b5fee5",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-nesadi.apk"
   		}
   	]
   }
