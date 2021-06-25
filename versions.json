@@ -122,6 +122,30 @@
       			"memo":"",
       			"md5":"68a939aef42c127d56c24fcdd2b5fee5",
       			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-nesadi.apk"
+  		},
+  		{
+  			"flavor":"tuishi",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"b113303d5694f8151e72f17995fe876d",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-tuishi.apk"
+  		},
+  		{
+  			"flavor":"topchoice",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"465c4ca2d94f0a59c0e1ec3b02c6cfcc",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-topchoice.apk"
+  		},
+  		{
+  			"flavor":"empuan",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"8ca1b1be94f292908b4d804299d98eaf",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-empuan.apk"
   		}
   	]
   }
