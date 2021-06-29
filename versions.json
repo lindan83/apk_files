@@ -146,6 +146,30 @@
       			"memo":"",
       			"md5":"8ca1b1be94f292908b4d804299d98eaf",
       			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-empuan.apk"
+  		},
+  		{
+  			"flavor":"uvaini",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"194ae08492a987b6236e044637b489c4",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-uvaini.apk"
+  		},
+  		{
+  			"flavor":"passerine",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"c51893bd987f2cdf73f04502e0c09be7",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-passerine.apk"
+  		},
+  		{
+  			"flavor":"dixhuit",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"4fafbdaf782e7111053941c83face140",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-dixhuit.apk"
   		}
   	]
   }
