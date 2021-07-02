@@ -21,7 +21,7 @@
   		},
   		{
   			"flavor":"finmat",
-			"version":"1.1.7",
+			"version":"1.1.8",
       			"isForce":true,
       			"memo":"新增C2B还款和存款功能",
       			"md5":"5c324a1154d136007c1532e1c6a91332",
@@ -109,11 +109,11 @@
   		},
   		{
   			"flavor":"nesadi",
-			"version":"1.1.6",
+			"version":"1.1.8",
       			"isForce":true,
       			"memo":"",
-      			"md5":"ee87442fe1a3a6fa11513de8c001d738",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-nesadi.apk"
+      			"md5":"f7771bf4a44fe8d3ff39d4a7f08b1600",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.8-nesadi.apk"
   		},
   		{
   			"flavor":"stmarys",
@@ -121,7 +121,7 @@
       			"isForce":true,
       			"memo":"",
       			"md5":"68a939aef42c127d56c24fcdd2b5fee5",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-nesadi.apk"
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-stmarys.apk"
   		},
   		{
   			"flavor":"tuishi",
