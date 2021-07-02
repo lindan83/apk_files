@@ -5,11 +5,11 @@
   	"flavors":[
   		{
   			"flavor":"generic",
-			"version":"1.1.7",
+			"version":"1.1.8",
       			"isForce":true,
-      			"memo":"新增C2B还款功能",
-      			"md5":"ed20964beb2f2be194e2fc66a9273145",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.7-generic.apk"
+      			"memo":"新增C2B还款和存款功能",
+      			"md5":"6c03d59c3bc5ae75a8d2ae4bf751b2bf",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.8-generic.apk"
   		},
   		{
   			"flavor":"tarda",
@@ -23,9 +23,9 @@
   			"flavor":"finmat",
 			"version":"1.1.7",
       			"isForce":true,
-      			"memo":"新增C2B还款功能",
-      			"md5":"2539496d6501c6efbb6dab80b9c0f61b",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.7-finmat.apk"
+      			"memo":"新增C2B还款和存款功能",
+      			"md5":"5c324a1154d136007c1532e1c6a91332",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.8-finmat.apk"
   		},
   		{
   			"flavor":"kibera",
