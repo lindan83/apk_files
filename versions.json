@@ -69,11 +69,11 @@
   		},
   		{
   			"flavor":"samsyo",
-			"version":"1.1.6",
+			"version":"1.1.8",
       			"isForce":true,
       			"memo":"",
-      			"md5":"2e5bf7e870c8e99ad8b3c673701aed40",
-      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-samsyo.apk"
+      			"md5":"158c83f497ae7fe2dd95ef438c854d26",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.8-samsyo.apk"
   		},
   		{
   			"flavor":"ktw",
@@ -170,6 +170,54 @@
       			"memo":"",
       			"md5":"4fafbdaf782e7111053941c83face140",
       			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-dixhuit.apk"
+  		},
+  		{
+  			"flavor":"shiningstar",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"c28756413275b653f3747e4641fcf91c",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-shiningstar.apk"
+  		},
+  		{
+  			"flavor":"portland",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"26ebd55a4cd7a591bcaf594618a39c99",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-portland.apk"
+  		},
+  		{
+  			"flavor":"mukaki",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"e181066d564e26b8cbf2368f71fd511c",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-mukaki.apk"
+  		},
+  		{
+  			"flavor":"rodlitho",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"d26171eddc9f6e8ede670a9db1333946",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-rodlitho.apk"
+  		},
+  		{
+  			"flavor":"tembe",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"9ae498c5a7f11d8063d20c22e05bf264",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-tembe.apk"
+  		},
+  		{
+  			"flavor":"maono",
+			"version":"1.1.6",
+      			"isForce":true,
+      			"memo":"",
+      			"md5":"d58407e6779f58d77c000e5a2c3a14b6",
+      			"downloadUrl":"https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.1.6-maono.apk"
   		}
   	]
   }
