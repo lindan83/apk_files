@@ -2,14 +2,6 @@
 	"code": "0",
 	"msg": "",
 	"data": {
-		"flavors": [{
-			"flavor": "generic",
-			"version": "1.3.5",
-			"versionCode": 20220707,
-			"isForce": true,
-			"memo": "",
-			"md5": "fd7ea0fbd6e438fd57a77e3184bf863c",
-			"downloadUrl": "https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.3.5-generic.apk"
-		}]
+		"flavors": []
 	}
 }
