@@ -1,7 +1,17 @@
 {
-	"code": "0",
-	"msg": "",
-	"data": {
-		"flavors": []
-	}
+  "code": "0",
+  "msg": "",
+  "data": {
+    "flavors": [
+      {
+        "flavor": "topchoice",
+        "version": "1.3.4",
+        "versionCode": 20220713,
+        "isForce": true,
+        "memo": "",
+        "md5": "430a27c8a91ed5bc77d2f9062fccdf50",
+        "downloadUrl": "https://github.com/lindan83/apk_files/raw/main/Sacco-release-v1.3.4-topchoice.apk"
+      }
+    ]
+  }
 }
